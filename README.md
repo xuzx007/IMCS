@@ -1,0 +1,1 @@
+用ImageMagick制作墨滴观测拼接图片
